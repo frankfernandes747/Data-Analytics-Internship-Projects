@@ -3,13 +3,13 @@ This repository contains the projects completed during my data analytics interns
 ## Projects Included
 
 1. Customer Churn Prediction  
-   - Predicting customers likely to leave a service.
+   - Predicting customers likely to leave a service
 
 2. Sales Forecasting  
-   - Predicting future sales using historical data.
+   - Predicting future sales using historical data
 
 3. Market Basket Analysis  
-   - Identifying product associations to understand purchase behavior.
+   - Identifying product associations to understand purchase behavior
 
 ## Technologies Used
 
